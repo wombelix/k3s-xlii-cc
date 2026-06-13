@@ -11,6 +11,10 @@ Scripts and playbooks related to the configuration and maintenance of k3s.xlii.c
 [![REUSE status](https://api.reuse.software/badge/git.sr.ht/~wombelix/k3s-xlii-cc)](https://api.reuse.software/info/git.sr.ht/~wombelix/k3s-xlii-cc)
 [![builds.sr.ht status](https://builds.sr.ht/~wombelix/k3s-xlii-cc.svg)](https://builds.sr.ht/~wombelix/k3s-xlii-cc?)
 
+## Notice
+
+This project is no longer actively maintained and archived
+
 ## Table of Contents
 
 * [Source](#source)
