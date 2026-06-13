@@ -4,10 +4,7 @@
 
 name: CI
 
-on:
-  push:
-    branches: [main]
-  workflow_dispatch:
+on: []  # disabled
 
 permissions:
   id-token: write
