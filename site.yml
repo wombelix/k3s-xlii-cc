@@ -5,7 +5,9 @@
 ---
 - name: Entrypoint to run all playbooks
   hosts: all
-  become: false
-  gather_facts: false
+  become: true
+  gather_facts: true
 
+- name: Deploy k3s cluster
+  ansible.builtin.import_playbook: k3s.orchestration.site
 ...
